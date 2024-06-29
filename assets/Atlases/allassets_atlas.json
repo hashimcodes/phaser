@@ -1,0 +1,359 @@
+{
+    "frames": [
+        {
+            "filename": "ui_lose-menu",
+            "frame": {
+                "w": 1920,
+                "h": 1080,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ui_start-menu",
+            "frame": {
+                "w": 1920,
+                "h": 1080,
+                "x": 0,
+                "y": 1080
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ui_win-screen",
+            "frame": {
+                "w": 1920,
+                "h": 1080,
+                "x": 1920,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bg_board",
+            "frame": {
+                "w": 1920,
+                "h": 1080,
+                "x": 1920,
+                "y": 1080
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bg_outro",
+            "frame": {
+                "w": 1920,
+                "h": 1080,
+                "x": 0,
+                "y": 2160
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bg_static",
+            "frame": {
+                "w": 1920,
+                "h": 1080,
+                "x": 1920,
+                "y": 2160
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "loading-screen",
+            "frame": {
+                "w": 1920,
+                "h": 1080,
+                "x": 0,
+                "y": 3240
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "landing-screen",
+            "frame": {
+                "w": 1920,
+                "h": 1080,
+                "x": 1920,
+                "y": 3240
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "prop_truck",
+            "frame": {
+                "w": 689,
+                "h": 591,
+                "x": 0,
+                "y": 4320
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ui_tutorial",
+            "frame": {
+                "w": 622,
+                "h": 588,
+                "x": 689,
+                "y": 4320
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ui_v1_goal",
+            "frame": {
+                "w": 405,
+                "h": 387,
+                "x": 1311,
+                "y": 4320
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "verticalboundary",
+            "frame": {
+                "w": 50,
+                "h": 400,
+                "x": 1716,
+                "y": 4320
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "verticalboundary1",
+            "frame": {
+                "w": 50,
+                "h": 400,
+                "x": 1766,
+                "y": 4320
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boundary1",
+            "frame": {
+                "w": 400,
+                "h": 50,
+                "x": 1311,
+                "y": 4707
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boundary",
+            "frame": {
+                "w": 400,
+                "h": 50,
+                "x": 1311,
+                "y": 4757
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "chara_delivery",
+            "frame": {
+                "w": 210,
+                "h": 259,
+                "x": 1816,
+                "y": 4320
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "chara_farmer",
+            "frame": {
+                "w": 210,
+                "h": 259,
+                "x": 1816,
+                "y": 4579
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ui_start-button",
+            "frame": {
+                "w": 211,
+                "h": 229,
+                "x": 2026,
+                "y": 4320
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hinthand",
+            "frame": {
+                "w": 212,
+                "h": 167,
+                "x": 2026,
+                "y": 4549
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ui_retry-button",
+            "frame": {
+                "w": 178,
+                "h": 189,
+                "x": 2026,
+                "y": 4716
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ui_home-button",
+            "frame": {
+                "w": 174,
+                "h": 189,
+                "x": 2204,
+                "y": 4716
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ui_emote01",
+            "frame": {
+                "w": 146,
+                "h": 175,
+                "x": 2237,
+                "y": 4320
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ui_emote02",
+            "frame": {
+                "w": 146,
+                "h": 175,
+                "x": 2238,
+                "y": 4495
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ui_emote06",
+            "frame": {
+                "w": 152,
+                "h": 175,
+                "x": 2383,
+                "y": 4320
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ui_emote05",
+            "frame": {
+                "w": 146,
+                "h": 169,
+                "x": 2378,
+                "y": 4670
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ui_emote03",
+            "frame": {
+                "w": 146,
+                "h": 158,
+                "x": 2384,
+                "y": 4495
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ui_emote04",
+            "frame": {
+                "w": 146,
+                "h": 158,
+                "x": 2524,
+                "y": 4653
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

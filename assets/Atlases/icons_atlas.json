@@ -1,0 +1,112 @@
+{
+    "frames": [
+        {
+            "filename": "icon_stage03",
+            "frame": {
+                "w": 169,
+                "h": 169,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "icon_01",
+            "frame": {
+                "w": 169,
+                "h": 169,
+                "x": 169,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "icon_02",
+            "frame": {
+                "w": 169,
+                "h": 169,
+                "x": 0,
+                "y": 169
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "icon_03",
+            "frame": {
+                "w": 169,
+                "h": 169,
+                "x": 169,
+                "y": 169
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "icon_04",
+            "frame": {
+                "w": 169,
+                "h": 169,
+                "x": 338,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "icon_05",
+            "frame": {
+                "w": 169,
+                "h": 169,
+                "x": 338,
+                "y": 169
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "icon_stage01",
+            "frame": {
+                "w": 169,
+                "h": 169,
+                "x": 0,
+                "y": 338
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "icon_stage02",
+            "frame": {
+                "w": 169,
+                "h": 169,
+                "x": 169,
+                "y": 338
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
